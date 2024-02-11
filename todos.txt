@@ -7,3 +7,4 @@ make soup
 clean the code
 meriyem
 boef
+buy eggs
