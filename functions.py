@@ -1,3 +1,7 @@
+
+# we should always try to decouple the frontend and the backend from each other:
+# have the functions and the program logic in a file and the frontend on another one!
+
 def get_todos(filepath="todos.txt"):
     """ Read a text file and return the list
     of to-do items"""
